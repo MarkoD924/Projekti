@@ -1,0 +1,16 @@
+C:\Users\AMD\Desktop\digitron\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+C:\Users\AMD\Desktop\digitron\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+C:\Users\AMD\Desktop\digitron\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+C:\Users\AMD\Desktop\digitron\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\digitron\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+C:\Users\AMD\Desktop\digitron\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.Form1.resources
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.GenerateResource.cache
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\AMD\Desktop\digitron\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
